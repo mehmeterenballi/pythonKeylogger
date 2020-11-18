@@ -1,2 +1,2 @@
 # pythonKeylogger
-A simple keylooger with python
+A simple keylogger with python
